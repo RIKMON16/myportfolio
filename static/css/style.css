@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=Raleway:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+body {
+    font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: #0B0052;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+}
+
+.navbar-height {
+    height: 150px;
+    background-color: #FAF5F4FC;
+}
+
+.color {
+    color: #0B0052;
+}
+
+.font {
+    font-family: 'Lobster', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+}
+
+.font-color {
+    color: #FAF5F4FC;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.listyle {
+    list-style: none;
+}
+
+.atagstyle {
+    text-decoration: none;
+    color: #FAF5F4FC;
+}
